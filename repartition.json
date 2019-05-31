@@ -1,0 +1,1688 @@
+{
+  "$schema": "./schema.json",
+  "projects": {
+    "timedisc": [
+      {
+        "icon": "icon-accounting",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-balai",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-benne",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-container",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-nacelle",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-pelle",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-raboteuse",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-truck-front",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-vehicule-leger",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-filter",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-add-filter",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-file",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-scanner",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-activite-conduite",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-corridoring",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-troncon",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-law",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-transparent",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-law-alert",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-law-warning",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-security-fail",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-security-ok",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-activite-dispo-de",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-activite-dispo",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-calendar-back",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-activite-nuit",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-activite-travail",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-activites",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-altitude",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-amplitude",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-double-down",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-double-left",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-double-right",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-double-top",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-down",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-left",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-right",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-top",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-battery",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-bed",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-calendar",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-calculator",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-card",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-center",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-chantier",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-circle",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-clapet",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-close",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-co2",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-collapse",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-company",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-context-menu",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-csv",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-date-empty",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-date",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-devise",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-disc",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-double-arrow",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-double-equipage",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-double-left",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-double-right",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-down",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-driver-add",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-driver",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-driver-delete",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-driver-unknown",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-driver",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-duplicate",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-echelle",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-eco-conduite",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-edit",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-error",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-events-alt",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-events",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-expand",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-favorites-empty",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-favorites",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-ferry",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-file",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-filter-white",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-first",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-flag-298",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-30",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-32",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-33",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-34",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-350",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-351",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-352",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-353",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-354",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-355",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-356",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-357",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-358",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-359",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-36",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-370",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-371",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-372",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-373",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-374",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-375",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-376",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-377",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-378",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-380",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-382",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-385",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-386",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-387",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-389",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-39",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-392",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-40",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-41",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-411",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-420",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-421",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-43",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-44",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-45",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-46",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-47",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-48",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-49",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-7",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-891",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-90",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-971",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-994",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-empty",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-flag-fr",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag-ge",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-flag",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-folder-empty",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-folder",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-frais-dejeuner",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-frais-diner",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-frais-divers",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-frais-nuit",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-frais-petit-dejeuner",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-frais-route",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-fullscreen-off",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-fullscreen-on",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-garage",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-gas-pump-empty",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-gas-pump",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-geofencing-radar",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-geofencing",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-hand-down-color",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-hand-down",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-hand-show-color",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-hand-show",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-hand-up-color",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-hand-up",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-help",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-phone",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-highway",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-hors-disque-temporel",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-html",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-industry",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-info",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-key",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-last",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-left",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-legislation",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-lock",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-logout",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-round-bronze",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-round-gold",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-round-silver",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-star-bronze",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-star-gold",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-star-silver",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medikit",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-milepost",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-minus",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-motor-minus",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-motor-plus",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-motor",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-msg-open",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-msg-receive",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-msg-send",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-msg",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-paper-plane",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-paperclip",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-parameter",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-passenger",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-pdf",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-phone",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-photo",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-pin-home",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-pin-parc",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-pin",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-pin2",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-play",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-plus",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-print",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-provenances",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-pto",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-questionnaire",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-refresh",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-right",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-rtf",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-save",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-search-adv",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-search",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-sigma",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-smiley-evilgrin",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-grin",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-lol",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-sad",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-smile",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-surprised",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-sweat",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-unhappy",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-wink",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-sort-alphabetic",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-sort",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-speed",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-square",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-stats",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-stop",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-tachometer",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-temperature",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-traffic-light",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-traffic-light-green",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-traffic-light-orange",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-traffic-light-red",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-trailer-minus",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-trailer-plus",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-trailer",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-trash",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-truck",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-undo",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-unlock",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-up",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-user-add",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-user-delete",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-user-team",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-user-unknown",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-user",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-valid",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-various",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-wifi",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-xls",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-xml",
+        "grab": "simple"
+      },
+      {
+        "icon": "logo-omp-grey",
+        "grab": "simple"
+      },
+      {
+        "icon": "logo-omp-red",
+        "grab": "simple"
+      },
+      {
+        "icon": "logo-omp-small-grey",
+        "grab": "simple"
+      },
+      {
+        "icon": "logo-omp-small-white",
+        "grab": "simple"
+      },
+      {
+        "icon": "logo-omp-white",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-binoculars",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-securite-ok",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-securite-ko",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-contrainte-hauteur",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-contrainte-largeur",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-contrainte-longueur",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-contrainte-matieres-dangereuses",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-contrainte-matieres-dangereuses-eau",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-contrainte-matieres-dangereuses-explosives",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-contrainte-poids-essieux",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-contrainte-poids-total",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-password",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-password-ok",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-password-wait",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-typeCapteur0",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur1",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur2",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur3",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur4",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur5",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur6",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur7",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur8",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur9",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur10",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur11",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur12",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur13",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur14",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur15",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur16",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-typeCapteur17",
+        "grab": "simple"
+      }
+    ],
+    "atelier-web": [
+      {
+        "icon": "icon-arrow-double-left",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-double-right",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-left",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-right",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-calculator",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-chantier",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-close",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-context-menu",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-down",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-duplicate",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-edit",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-error-red",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-invoice-opened",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-invoice-closed",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-invoice-wait",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-favorites-empty",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-favorites",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-first",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-last",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-left",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-parameter",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-plus",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-right",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-search",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-search-adv",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-save",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-sort",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-trash",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-undo",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-unlock",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-up",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-user",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-valid",
+        "grab": "colors"
+      },
+      {
+        "icon": "logo-omp-small-white",
+        "grab": "simple"
+      }
+    ],
+    "omp-utils": [
+      {
+        "icon": "icon-activite-conduite",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-activite-dispo",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-user-team",
+        "grab": "colors"
+      },
+      {
+        "icon": "logo-omp-small",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-eye",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-date",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-duplicate",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-close",
+        "grab": "colors"
+      },
+      {
+        "icon": "logo-omp-small-white",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-favorites-empty",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-phone",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-chantier",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-down",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-favorites",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-user",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-parameter",
+        "grab": "colors"
+      },
+      {
+        "icon": "logo-omp-grey",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-right",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-down",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-plus",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-first",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-last",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-left",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-save",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-context-menu",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-edit",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-trash",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-valid",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-sort",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-up",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-search",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-error",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-down",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-left",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-double-left",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-right",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-arrow-double-right",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-minus",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-calendar",
+        "grab": "colors"
+      }
+    ],
+    "omp-grille": [
+      {
+        "icon": "icon-chantier",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-close-grey",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-folder-open-grey",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-transparent",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-question-grey",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-parameter-grey",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-edit-orange",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-plus-green",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-left-grey",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-right-grey",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-down",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-up",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-close-red",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-valid-green",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-valid-grey",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-folder-grey",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-round-bronze",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-round-gold",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-round-silver",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-star-bronze",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-star-gold",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-medal-star-silver",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-csv",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-pdf",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-stop",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-circle",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-flag",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-traffic-light",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-traffic-light-green",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-traffic-light-red",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-traffic-light-orange",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-hand-up-color",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-hand-down-color",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-hand-show-color",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-error-orange",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-pin2",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-smiley-evilgrin",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-grin",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-lol",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-smile",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-sad",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-surprised",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-sweat",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-minus-red",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-wink",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-smiley-unhappy",
+        "grab": "simple"
+      },
+      {
+        "icon": "icon-balai",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-benne",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-container",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-nacelle",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-pelle",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-raboteuse",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-truck-front",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-vehicule-leger",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-filter",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-add-filter",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-file",
+        "grab": "colors"
+      },
+      {
+        "icon": "icon-scanner",
+        "grab": "colors"
+      }
+    ],
+    "omp-demo": [
+      {
+        "icon": "*"
+      }
+    ],
+    "admin-utilisateurs": [
+      {
+        "icon": "*",
+        "grab": "colors"
+      }
+    ]
+  }
+}
